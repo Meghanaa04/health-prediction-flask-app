@@ -36,3 +36,4 @@ A Flask-based web application that manages patient records and predicts health r
 pip install -r requirements.txt
 python app.py
 ```
+The database.db file is created automatically when the application starts.
